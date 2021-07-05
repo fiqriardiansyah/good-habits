@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="195.578" height="195.578" viewBox="0 0 195.578 195.578">
+  <g id="Group_419" data-name="Group 419" transform="translate(-1005.848 -518.393)">
+    <g id="Group_162" data-name="Group 162" transform="translate(12 19)">
+      <g id="Group_159" data-name="Group 159">
+        <circle id="Ellipse_28" data-name="Ellipse 28" cx="85.236" cy="85.236" r="85.236" transform="translate(993.848 667.664) rotate(-80.783)" fill="#f16d24"/>
+      </g>
+      <g id="Group_160" data-name="Group 160">
+        <path id="Path_177" data-name="Path 177" d="M1136.231,524.432A85.249,85.249,0,0,1,1019.81,642.994a85.244,85.244,0,1,0,116.421-118.562Z" fill="#ef6421"/>
+      </g>
+      <g id="Group_161" data-name="Group 161">
+        <path id="Path_178" data-name="Path 178" d="M1017.985,606.174a79.135,79.135,0,0,1,141.868-48.24A79.142,79.142,0,1,0,1028.5,645.617,78.77,78.77,0,0,1,1017.985,606.174Z" fill="#f2824e"/>
+      </g>
+    </g>
+    <g id="Group_166" data-name="Group 166" transform="translate(12 19)">
+      <g id="Group_165" data-name="Group 165">
+        <g id="Group_163" data-name="Group 163">
+          <ellipse id="Ellipse_29" data-name="Ellipse 29" cx="6.28" cy="10.586" rx="6.28" ry="10.586" transform="translate(1053.954 570.734)" fill="#303030"/>
+        </g>
+        <g id="Group_164" data-name="Group 164">
+          <path id="Path_179" data-name="Path 179" d="M1129.319,581.32c0,5.846-2.812,10.586-6.28,10.586s-6.281-4.74-6.281-10.586,2.812-10.586,6.281-10.586S1129.319,575.473,1129.319,581.32Z" fill="#303030"/>
+        </g>
+      </g>
+    </g>
+    <path id="Path_180" data-name="Path 180" d="M1126.574,635.064A2.813,2.813,0,0,0,1131.15,632a42.725,42.725,0,0,0-79.012-.785,2.81,2.81,0,0,0,4.541,3.1C1069.154,622.218,1095.635,605.009,1126.574,635.064Z" transform="translate(12 19)" fill="#5e4939"/>
+    <g id="Group_167" data-name="Group 167" transform="translate(12 19)">
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="8.083" height="26.97" transform="translate(1053.151 553.233) rotate(-45)" fill="#303030"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="8.083" height="26.97" transform="translate(1124.406 547.517) rotate(45)" fill="#303030"/>
+    </g>
+  </g>
+</svg>
